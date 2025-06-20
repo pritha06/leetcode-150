@@ -1,0 +1,22 @@
+s.split() == s.strip().split(" ")
+The strip() function removes the spaces
+The split() function splits the string into a list seperated by their spaces
+find time complexity of both
+
+defaultdict() in python
+greedy algo
+counting sort bucket sort
+KMP
+Rabin Karp
+
+startswith
+zip(strs) do?
+
+s=s.reverse() or s.reverse() only
+s.strip()/ s.split() / list /str difference
+
+append on list or string?
+
+rstrip(), lstrip() or strip
+
+initialise a list with fixed length is constant size operation
